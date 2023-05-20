@@ -1,1 +1,2 @@
-# spectrogram_creation_refinement_indv_project
+# spectrogram_project
+Code and audio recordings used for my final year project (2022-2023).
